@@ -20,6 +20,7 @@ TARGET_BOOT_ANIMATION_RES := 1080
 # Evolution-X Stuff
 EVO_BUILD_TYPE := OFFICIAL
 TARGET_FACE_UNLOCK_SUPPORTED := true
+TARGET_SUPPORTS_QUICK_TAP := true
 
 # Device Identifier.
 PRODUCT_NAME := evolution_sweet
